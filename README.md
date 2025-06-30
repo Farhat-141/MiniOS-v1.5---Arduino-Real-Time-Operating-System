@@ -304,10 +304,6 @@ We welcome contributions! Please follow these steps:
 - Test on actual hardware before submitting
 - Update documentation for new features
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Farhat-141**
